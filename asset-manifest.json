@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.19c3a950.css",
-    "main.js": "/static/js/main.53a733b3.js",
+    "main.css": "/static/css/main.a9829efa.css",
+    "main.js": "/static/js/main.e8b4b9d6.js",
     "static/media/macPortada.jpg": "/static/media/macPortada.afc06a2e3fb6b1638715.jpg",
     "static/media/laptop1.jpg": "/static/media/laptop1.eaf8f08fd3413ebe1adb.jpg",
     "static/media/imgWinLateral.webp": "/static/media/imgWinLateral.d5db57569e45dc639942.webp",
     "static/media/macright.jpg": "/static/media/macright.ebdd4737b91e7b875e30.jpg",
     "static/media/macleft.jpg": "/static/media/macleft.a5d63fd6d9ed0047b66e.jpg",
-    "static/media/redCompra.jpg": "/static/media/redCompra.02c8c8ed4a0ac902c8a1.jpg",
+    "static/media/pago1.svg": "/static/media/pago1.63311183e02995f06ad6c7e101c7cd63.svg",
     "static/media/cash.jpg": "/static/media/cash.b16c2e0c0fd2735229fd.jpg",
+    "static/media/ssd.png": "/static/media/ssd.547a7b9b0b8b60c4e1b8.png",
     "index.html": "/index.html",
-    "main.19c3a950.css.map": "/static/css/main.19c3a950.css.map",
-    "main.53a733b3.js.map": "/static/js/main.53a733b3.js.map"
+    "main.a9829efa.css.map": "/static/css/main.a9829efa.css.map",
+    "main.e8b4b9d6.js.map": "/static/js/main.e8b4b9d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.19c3a950.css",
-    "static/js/main.53a733b3.js"
+    "static/css/main.a9829efa.css",
+    "static/js/main.e8b4b9d6.js"
   ]
 }
