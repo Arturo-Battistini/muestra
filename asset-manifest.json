@@ -1,21 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.629f50ed.css",
-    "main.js": "/static/js/main.ac2603f5.js",
+    "main.css": "/static/css/main.60b150aa.css",
+    "main.js": "/static/js/main.8660e888.js",
+    "static/media/ca4.jpg": "/static/media/ca4.d8a2984c441af5d195d8.jpg",
+    "static/media/ca2.jpg": "/static/media/ca2.9a58d67bb9f036c4a4d4.jpg",
+    "static/media/ca3.jpg": "/static/media/ca3.4602da1a498bcdb1e602.jpg",
     "static/media/macPortada.jpg": "/static/media/macPortada.afc06a2e3fb6b1638715.jpg",
+    "static/media/ca1.jpg": "/static/media/ca1.058c98988cc3d1446f79.jpg",
     "static/media/laptop1.jpg": "/static/media/laptop1.eaf8f08fd3413ebe1adb.jpg",
     "static/media/imgWinLateral.webp": "/static/media/imgWinLateral.d5db57569e45dc639942.webp",
     "static/media/macright.jpg": "/static/media/macright.ebdd4737b91e7b875e30.jpg",
     "static/media/macleft.jpg": "/static/media/macleft.a5d63fd6d9ed0047b66e.jpg",
     "static/media/pago1.svg": "/static/media/pago1.63311183e02995f06ad6c7e101c7cd63.svg",
+    "static/media/wifi2.jpg": "/static/media/wifi2.38ccc0d106042fd12cbc.jpg",
     "static/media/cash.jpg": "/static/media/cash.b16c2e0c0fd2735229fd.jpg",
+    "static/media/teclado3.jpg": "/static/media/teclado3.fc5bee81ab8f102c9898.jpg",
+    "static/media/teclado4.jpg": "/static/media/teclado4.fc5bee81ab8f102c9898.jpg",
+    "static/media/teclado1.jpg": "/static/media/teclado1.03540a17a454dcb3c636.jpg",
+    "static/media/teclado5.jpg": "/static/media/teclado5.f31572de86d3933e8f6a.jpg",
     "static/media/ssd.png": "/static/media/ssd.547a7b9b0b8b60c4e1b8.png",
+    "static/media/teclado0.jpg": "/static/media/teclado0.9cf0c59b74a8f7413f05.jpg",
     "index.html": "/index.html",
-    "main.629f50ed.css.map": "/static/css/main.629f50ed.css.map",
-    "main.ac2603f5.js.map": "/static/js/main.ac2603f5.js.map"
+    "main.60b150aa.css.map": "/static/css/main.60b150aa.css.map",
+    "main.8660e888.js.map": "/static/js/main.8660e888.js.map"
   },
   "entrypoints": [
-    "static/css/main.629f50ed.css",
-    "static/js/main.ac2603f5.js"
+    "static/css/main.60b150aa.css",
+    "static/js/main.8660e888.js"
   ]
 }
